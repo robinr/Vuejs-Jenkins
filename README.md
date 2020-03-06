@@ -1,4 +1,4 @@
-# vue-image-slider
+# vuejs-jenkins
 
 ## Project setup
 ```
